@@ -10,6 +10,6 @@ Code for paper on Splicing and Senescence
     
    ## *Project Desc*
    
-   ![differential_expresion](https://github.com/mtinti/oocyst_wall_proteome/Fig_Def2.png)
+   ![differential_expresion](https://github.com/mtinti/spliceosome-senescence/blob/main/Fig_Def2.png)
 
 
